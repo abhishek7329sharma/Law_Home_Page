@@ -6,7 +6,7 @@
 
 <br>
 
-### I Learnt to how to work with hover on button or any element like, and changing color of icon at same time on hover.
+### I learnt how to work with hover on button or any element, and changing color of icon at same time on hover.
 
 <br>
 
